@@ -1,4 +1,4 @@
-## GitHub Copilot Workshop for AI Tour
+## GitHub Copilot Workshop for Beijing AI Tour
 
 ![agent](./imgs/Agent-Sunrise-1.webp)
 
