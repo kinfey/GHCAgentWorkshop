@@ -1,5 +1,7 @@
 ## GitHub Copilot Workshop for AI Tour
 
+![agent](./imgs/Agent-Sunrise-1.webp)
+
 GitHub Copilot 是辅助代码开发的工具，可通过 GitHub Copilot 完成代码生成，上下文补全，优化工作，更在新一代的 GitHub Copilot Chat 中更有 Agent 模式让你可以通过需求直接创建项目。本次 Workshop 我们会让每一位参与者能通过零代码的方式创建 Copilot 应用。让您体会在 AI 的加持下，人人都是项目经理。
 
 ### 🔨 准备工作
