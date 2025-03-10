@@ -15,10 +15,9 @@ git clone https://github.com/kinfey/GitHubCopilotAgentWorkshop
 
 - Python 3.10.8+ (建议使用 Miniforge 安装)
 - Visual Studio Code Insider [https://code.visualstudio.com/insiders/](https://code.visualstudio.com/insiders/)
-- Docker Desktop [https://docker.com/](https://docker.com/)
 - Python Visual Studio Code 插件
 
-3. 本次 workshop 基于免费版本的 GitHub Copilot，具体内容您可以访问 [https://github.com/github-copilot/signup](https://github.com/github-copilot/signup)
+1. 本次 workshop 基于免费版本的 GitHub Copilot，具体内容您可以访问 [https://github.com/github-copilot/signup](https://github.com/github-copilot/signup)
 
 ### 🧪 实验步骤
 
@@ -28,5 +27,4 @@ git clone https://github.com/kinfey/GitHubCopilotAgentWorkshop
 | 02 | 了解 GitHub Copilot Edit 模式下使用 Agent 模式    | [进入](./md/02.IntroduceGitHubCopilotAgentMode.md)  |
 | 03 | 在 Ageent 模式下创建 Copilot 应用前端   | [进入](./md/03.CreateCopilotUI.md)  |
 | 04 | 通过 GitHub Copilot Agent 调用 GitHub Models  | [进入](./md/04.CreateCopilotBackend.md)  |
-| 05 | 通过 GitHub Copilot Agent 把应用部署在容器中  | [进入](./md/05.DeployCopilotContainer.md)  |
 
