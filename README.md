@@ -28,3 +28,12 @@ git clone https://github.com/kinfey/GitHubCopilotAgentWorkshop
 | 03 | 在 Ageent 模式下创建 Copilot 应用前端   | [进入](./md/03.CreateCopilotUI.md)  |
 | 04 | 通过 GitHub Copilot Agent 调用 GitHub Models  | [进入](./md/04.CreateCopilotBackend.md)  |
 
+### 更多资源
+
+
+1. 免费使用 GitHub Copilot  https://aka.ms/CopilotFree_R
+
+2. 了解 GitHub Models https://gh.io/models
+
+3. 阅读博客 GitHub Copilot: The agent awakens https://github.blog/news-insights/product-news/github-copilot-the-agent-awakens/
+ 
