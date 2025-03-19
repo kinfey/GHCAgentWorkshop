@@ -21,14 +21,26 @@ git clone https://github.com/kinfey/GitHubCopilotAgentWorkshop
 
 1. 本次 workshop 基于免费版本的 GitHub Copilot，具体内容您可以访问 [https://github.com/github-copilot/signup](https://github.com/github-copilot/signup)
 
-### 🧪 实验步骤
+### 🧪 实验1 - RAG 应用
 
 | 步骤 | 内容 | 操作 |
 | -------- | ------- | ------- |
-| 01 | 认识 GitHub Copilot 模型的各种能力  | [进入](./md/01.GitHubCopilotModels.md)  |
-| 02 | 了解 GitHub Copilot Edit 模式下使用 Agent 模式    | [进入](./md/02.IntroduceGitHubCopilotAgentMode.md)  |
-| 03 | 在 Agent 模式下创建 Copilot 应用前端   | [进入](./md/03.CreateCopilotUI.md)  |
-| 04 | 通过 GitHub Copilot Agent 调用 GitHub Models  | [进入](./md/04.CreateCopilotBackend.md)  |
+| 01 | 认识 GitHub Copilot 模型的各种能力  | [进入](./md/lab1/01.GitHubCopilotModels.md)  |
+| 02 | 了解 GitHub Copilot Edit 模式下使用 Agent 模式    | [进入](./md/lab1/02.IntroduceGitHubCopilotAgentMode.md)  |
+| 03 | 在 Agent 模式下创建 Copilot 应用前端   | [进入](./md/lab1/03.CreateCopilotUI.md)  |
+| 04 | 通过 GitHub Copilot Agent 调用 GitHub Models  | [进入](./md/lab1/04.CreateCopilotBackend.md)  |
+
+
+### 🧪 实验2 - 股票分析
+
+
+| 步骤 | 内容 | 操作 |
+| -------- | ------- | ------- |
+| 01 | 通过 GitHub Copilot Agent 生成模拟数据  | [进入](./md/lab2/01.FetchYourData.md)  |
+| 02 | 通过 GitHub Copilot Agent 构建股票 UI    | [进入](./md/lab2/02.CreateUI.md)  |
+| 03 | 构建前后端  | [进入](./md/lab2/03.Finish.md)  |
+
+
 
 ### 更多资源
 
