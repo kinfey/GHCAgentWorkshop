@@ -27,7 +27,7 @@ git clone https://github.com/kinfey/GitHubCopilotAgentWorkshop
 | -------- | ------- | ------- |
 | 01 | 认识 GitHub Copilot 模型的各种能力  | [进入](./md/01.GitHubCopilotModels.md)  |
 | 02 | 了解 GitHub Copilot Edit 模式下使用 Agent 模式    | [进入](./md/02.IntroduceGitHubCopilotAgentMode.md)  |
-| 03 | 在 Ageent 模式下创建 Copilot 应用前端   | [进入](./md/03.CreateCopilotUI.md)  |
+| 03 | 在 Agent 模式下创建 Copilot 应用前端   | [进入](./md/03.CreateCopilotUI.md)  |
 | 04 | 通过 GitHub Copilot Agent 调用 GitHub Models  | [进入](./md/04.CreateCopilotBackend.md)  |
 
 ### 更多资源
