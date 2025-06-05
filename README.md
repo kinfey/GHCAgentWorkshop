@@ -13,7 +13,6 @@ GitHub Copilot 是辅助代码开发的工具，可通过 GitHub Copilot 完成�
 git clone https://github.com/kinfey/GitHubCopilotAgentWorkshop
 ```
 
-**!Important** -  请使用 [aka.ms/423gh](https://aka.ms/423gh) 注册您的帐号，开通体验企业版本功能
 
 2. 请确保本地环境安装以下内容
 
