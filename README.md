@@ -42,6 +42,16 @@ git clone https://github.com/kinfey/GitHubCopilotAgentWorkshop
 | 03 | 构建前后端  | [进入](./md/lab2/03.Finish.md)  |
 
 
+### 🧪 实验3 - 体验 GPT-5 和应用部署
+
+
+| 步骤 | 内容 | 操作 |
+| -------- | ------- | ------- |
+| 01 | 认识和使用 GitHub Copilot 中的 GPT-5 模型  | [进入](./md/lab3/01.UsingGPT5.md)  |
+| 02 | 使用 Agent Mode 创建抽奖轮盘应用    | [进入](./md/lab3/02.AgentMode.md)  |
+| 03 | 通过 GitHub Pages 部署您的应用  | [进入](./md/lab3/03.GitHubPages.md)  |
+
+
 
 ### 更多资源
 
